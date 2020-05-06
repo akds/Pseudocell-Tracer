@@ -17,4 +17,4 @@ Gen_Layer2=512
 Det_Layer1=512
 Learning_Rate=0.00005
 L2_Lambda=0.0000
-Max_Epoch=20000
+Max_Epoch=50000
