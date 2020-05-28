@@ -1,4 +1,4 @@
-## Pseudocell Tracer: Inferring developmental trajectories from scRNA-seq
+## Pseudocell Tracer: Inferring cellular trajectories from scRNA-seq
 
 
 ### Prerequisites
