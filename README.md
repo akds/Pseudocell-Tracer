@@ -1,5 +1,5 @@
 ## Pseudocell Tracer: Inferring cellular trajectories from scRNA-seq
-
+Pseudocell Tracer infers trajectories in pseudospace rather than in pseudotime.
 
 ### Prerequisites
 * Pseudocell Tracer is tested to work on Python 3.7+
